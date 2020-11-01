@@ -4,8 +4,7 @@
 **IDE**: google colab
 
 
-![Информация о графическом ускорителе](gpuinfo.png?raw=true )
-
+<img src="gpuinfo.png" alt="gpuinfi"
+	title="gpu infi"/>
 
 ![График демонстрирующий прирост в скорости вычислений](plot.svg?raw=true )
-
